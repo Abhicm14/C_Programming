@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+display_menu	menu.c	/^void display_menu() {$/;"	f
+main	main.c	/^void main()$/;"	f
+mystrcasecmp	strcasecmp.c	/^int mystrcasecmp(char *str1, char *str2)$/;"	f
+mystrcat	strcat.c	/^char *mystrcat(char *str1,char *str2)$/;"	f
+mystrchr	strchr.c	/^int mystrchr(char *str,char *ch)$/;"	f
+mystrcmp	strcmp.c	/^int mystrcmp(char *str1, char *str2)$/;"	f
+mystrcpy	strcpy.c	/^char *mystrcpy(char *str1,char *str2)$/;"	f
+mystrlen	strlen.c	/^int mystrlen(char *str)$/;"	f
+mystrncasecmp	strncasecmp.c	/^int mystrncasecmp(char *str1, char *str2,int n)$/;"	f
+mystrncat	strncat.c	/^int mystrncat(char *str,char *str1,char *str2,int n)$/;"	f
+mystrncmp	strncmp.c	/^int mystrncmp(char *str1, char *str2,int n)$/;"	f
+mystrncpy	strncpy.c	/^int mystrncpy(char *str1,char *str2,int n)$/;"	f

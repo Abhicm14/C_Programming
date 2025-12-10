@@ -1,0 +1,22 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+addition	addition.c	/^int addition(int num1, int num2)$/;"	f
+calculatingPrices	calculatingPrices.c	/^void calculatingPrices(float *priceList,int numproducts)$/;"	f
+calculator	Calculator.c	/^void calculator(void)$/;"	f
+countOccurences	countOccurences.c	/^int countOccurences(int *arr,int size,int target)$/;"	f
+division	division.c	/^int division(int num1, int num2)$/;"	f
+findLargest	findLargest.c	/^int findLargest(int *arr,int size)$/;"	f
+main	main.c	/^void main()$/;"	f
+menu	menu.c	/^void menu(void)$/;"	f
+multiplication	multiplication.c	/^int multiplication(int num1, int num2)$/;"	f
+operation	Calculator.c	/^int (*operation)(int, int);$/;"	v
+processTransaction	processTransaction.c	/^void processTransaction(float *balancePtr,float amount)$/;"	f
+reverseArray	reverseArray.c	/^void reverseArray(int *arr,int size)$/;"	f
+subtraction	subtraction.c	/^int subtraction(int num1, int num2)$/;"	f
+sumArray	sumArray.c	/^int sumArray(int *arr,int size)$/;"	f
+swap	swap.c	/^void swap(int *num1, int *num2)$/;"	f
+updateStock	stock_quantity.c	/^void updateStock(int *StockPtr,int quantity)$/;"	f

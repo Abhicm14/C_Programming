@@ -1,0 +1,16 @@
+#include<stdio.h>
+
+typedef struct tag {
+    int i;
+    char c;
+}tag;
+
+void main()
+{
+    struct tag v1 = {1, 'a'};
+
+    tag v2 = {2,'b'};
+
+    printf("%d %c %d %c\n",v1.i,v1.c,v2.i,v2.c);
+
+}

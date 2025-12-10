@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+calculate_premium	premium_cal.c	/^int calculate_premium(int type, int coverage, int risk) $/;"	f
+claim_status	main.c	/^int claim_status = 0;$/;"	v
+coverage_amount	main.c	/^int coverage_amount = 0;$/;"	v
+file_claim	claim.c	/^void file_claim() $/;"	f
+main	main.c	/^int main() $/;"	f
+menu	menu.c	/^int menu(void)$/;"	f
+policy_active	main.c	/^int policy_active = 0;$/;"	v
+policy_type	main.c	/^int policy_type = 0;$/;"	v
+premium	main.c	/^int premium = 0;$/;"	v
+purchase_policy	policy.c	/^void purchase_policy()$/;"	f
+risk_factor	main.c	/^int risk_factor = 0;$/;"	v
+view_status	status.c	/^void view_status() $/;"	f

@@ -1,0 +1,47 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BIN_DIR	Makefile	/^BIN_DIR = bin$/;"	m
+CC	Makefile	/^CC = gcc$/;"	m
+CFLAGS	Makefile	/^CFLAGS = -Iinc -I..\/Validation\/inc$/;"	m
+DYNAMIC_LIB	Makefile	/^DYNAMIC_LIB = -L$(DYNAMIC_LIB_DIR) -lvalidate$/;"	m
+DYNAMIC_LIB_DIR	Makefile	/^DYNAMIC_LIB_DIR = ..\/Validation\/dynamiclib$/;"	m
+OBJS	Makefile	/^OBJS = $(SRCS:.c=.o)$/;"	m
+SRCS	Makefile	/^SRCS = $(wildcard $(SRC_DIR)\/*.c)$/;"	m
+SRC_DIR	Makefile	/^SRC_DIR = src$/;"	m
+TARGET	Makefile	/^TARGET = $(BIN_DIR)\/pointers$/;"	m
+addition	src/addition.c	/^int addition(int num1, int num2)$/;"	f
+amount	inc/pointers.h	/^float amount;$/;"	v
+balance	inc/pointers.h	/^float balance = 8000.00;$/;"	v
+balanceptr	inc/pointers.h	/^float *balanceptr = &balance;$/;"	v
+calculatingPrices	src/calculatingPrices.c	/^void calculatingPrices(float *priceList,int numproducts)$/;"	f
+calculator	src/Calculator.c	/^void calculator(void)$/;"	f
+change	inc/pointers.h	/^int change;$/;"	v
+choice	inc/pointers.h	/^int choice;$/;"	v
+count	inc/pointers.h	/^int count;$/;"	v
+countOccurences	src/countOccurences.c	/^int countOccurences(int *arr,int size,int target)$/;"	f
+division	src/division.c	/^int division(int num1, int num2)$/;"	f
+findLargest	src/findLargest.c	/^int findLargest(int *arr,int size)$/;"	f
+largest	inc/pointers.h	/^int largest;$/;"	v
+main	src/main.c	/^void main()$/;"	f
+menu	src/menu.c	/^void menu(void)$/;"	f
+multiplication	src/multiplication.c	/^int multiplication(int num1, int num2)$/;"	f
+num1	inc/pointers.h	/^int num1;$/;"	v
+num2	inc/pointers.h	/^int num2;$/;"	v
+numProducts	inc/pointers.h	/^int numProducts;$/;"	v
+operation	src/Calculator.c	/^int (*operation)(int, int);$/;"	v
+priceList	inc/pointers.h	/^float *priceList;$/;"	v
+processTransaction	src/processTransaction.c	/^void processTransaction(float *balancePtr,float amount)$/;"	f
+reverseArray	src/reverseArray.c	/^void reverseArray(int *arr,int size)$/;"	f
+size	inc/pointers.h	/^int size;$/;"	v
+stockQuantity	inc/pointers.h	/^int stockQuantity;$/;"	v
+stockptr	inc/pointers.h	/^int *stockptr = &stockQuantity;$/;"	v
+subtraction	src/subtraction.c	/^int subtraction(int num1, int num2)$/;"	f
+sum	inc/pointers.h	/^int sum;$/;"	v
+sumArray	src/sumArray.c	/^int sumArray(int *arr,int size)$/;"	f
+swap	src/swap.c	/^void swap(int *num1, int *num2)$/;"	f
+target	inc/pointers.h	/^int target;$/;"	v
+updateStock	src/stock_quantity.c	/^void updateStock(int *StockPtr,int quantity)$/;"	f

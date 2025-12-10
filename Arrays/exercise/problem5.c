@@ -1,0 +1,20 @@
+#include<stdio.h>
+
+void func(int arr[]);
+
+void main()
+{
+	int i, arr[5]={5,10,15,20,25};
+
+	func(arr);
+}
+
+void func(int arr[])
+{
+	int i=5,sum=0;
+
+	while(i>2)
+		sum=sum+arr[--i];
+
+	printf("Sum = %d\n",sum);
+}

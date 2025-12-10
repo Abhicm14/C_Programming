@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+avail1	main.c	/^int avail1 = 4, avail2 = 4, avail3 = 4, avail4 = 4;   \/\/ global availability$/;"	v
+avail2	main.c	/^int avail1 = 4, avail2 = 4, avail3 = 4, avail4 = 4;   \/\/ global availability$/;"	v
+avail3	main.c	/^int avail1 = 4, avail2 = 4, avail3 = 4, avail4 = 4;   \/\/ global availability$/;"	v
+avail4	main.c	/^int avail1 = 4, avail2 = 4, avail3 = 4, avail4 = 4;   \/\/ global availability$/;"	v
+billing	billing.c	/^void billing(int rooms, int total_days, int booked_room_type)$/;"	f
+booked_room_type	main.c	/^int booked_room_type = 0;$/;"	v
+booked_rooms	main.c	/^int booked_rooms = 0;$/;"	v
+booking	booking.c	/^void booking(void)$/;"	f
+cancelation	cancelation.c	/^void cancelation(void)$/;"	f
+check_valid_date	check_valid_date.c	/^int check_valid_date(int d, int m, int y)$/;"	f
+count_days	difference_two_dates.c	/^int count_days(int d, int m, int y)$/;"	f
+difference_two_dates	difference_two_dates.c	/^int difference_two_dates(int d1, int d2, int m1, int m2, int y1, int y2)$/;"	f
+main	main.c	/^int main(void)$/;"	f
+menu	menu.c	/^int menu(void)$/;"	f

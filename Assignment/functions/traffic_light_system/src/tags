@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+cycle	cycle.c	/^int cycle(void) $/;"	f
+green_light	green_light.c	/^int green_light(void)$/;"	f
+main	main.c	/^int main(void) $/;"	f
+menu	menu.c	/^void menu(int time1,int time2,int time3,int total,int cycle)$/;"	f
+red_light	red_light.c	/^int red_light(void)$/;"	f
+run_simulation	run_simulation.c	/^void run_simulation(int cycles) $/;"	f
+total_time	total_time.c	/^int total_time(int time1,int time2, int time3)$/;"	f
+yellow_light	yellow_light.c	/^int yellow_light(void)$/;"	f

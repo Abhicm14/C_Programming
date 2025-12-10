@@ -1,0 +1,55 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+DOCTOR_FEE	main.c	/^int DOCTOR_FEE = 500;$/;"	v
+GENERAL_CHARGE	main.c	/^int GENERAL_CHARGE = 1000;$/;"	v
+ICU_CHARGE	main.c	/^int ICU_CHARGE = 2500;$/;"	v
+admitPatient	admit_patient.c	/^void admitPatient() $/;"	f
+age0	main.c	/^int age1,age2,age3,age4,age5,age6,age7,age8,age9,age0;$/;"	v
+age1	main.c	/^int age1,age2,age3,age4,age5,age6,age7,age8,age9,age0;$/;"	v
+age2	main.c	/^int age1,age2,age3,age4,age5,age6,age7,age8,age9,age0;$/;"	v
+age3	main.c	/^int age1,age2,age3,age4,age5,age6,age7,age8,age9,age0;$/;"	v
+age4	main.c	/^int age1,age2,age3,age4,age5,age6,age7,age8,age9,age0;$/;"	v
+age5	main.c	/^int age1,age2,age3,age4,age5,age6,age7,age8,age9,age0;$/;"	v
+age6	main.c	/^int age1,age2,age3,age4,age5,age6,age7,age8,age9,age0;$/;"	v
+age7	main.c	/^int age1,age2,age3,age4,age5,age6,age7,age8,age9,age0;$/;"	v
+age8	main.c	/^int age1,age2,age3,age4,age5,age6,age7,age8,age9,age0;$/;"	v
+age9	main.c	/^int age1,age2,age3,age4,age5,age6,age7,age8,age9,age0;$/;"	v
+calculateBill	calculatebill.c	/^void calculateBill() $/;"	f
+dischargePatient	discharge_patient.c	/^void dischargePatient() $/;"	f
+disease0	main.c	/^char disease1[10],disease2[10],disease3[10],disease4[10],disease5[10],disease6[10],disease7[10],disease8[10],disease9[10],disease0[10];$/;"	v
+disease1	main.c	/^char disease1[10],disease2[10],disease3[10],disease4[10],disease5[10],disease6[10],disease7[10],disease8[10],disease9[10],disease0[10];$/;"	v
+disease2	main.c	/^char disease1[10],disease2[10],disease3[10],disease4[10],disease5[10],disease6[10],disease7[10],disease8[10],disease9[10],disease0[10];$/;"	v
+disease3	main.c	/^char disease1[10],disease2[10],disease3[10],disease4[10],disease5[10],disease6[10],disease7[10],disease8[10],disease9[10],disease0[10];$/;"	v
+disease4	main.c	/^char disease1[10],disease2[10],disease3[10],disease4[10],disease5[10],disease6[10],disease7[10],disease8[10],disease9[10],disease0[10];$/;"	v
+disease5	main.c	/^char disease1[10],disease2[10],disease3[10],disease4[10],disease5[10],disease6[10],disease7[10],disease8[10],disease9[10],disease0[10];$/;"	v
+disease6	main.c	/^char disease1[10],disease2[10],disease3[10],disease4[10],disease5[10],disease6[10],disease7[10],disease8[10],disease9[10],disease0[10];$/;"	v
+disease7	main.c	/^char disease1[10],disease2[10],disease3[10],disease4[10],disease5[10],disease6[10],disease7[10],disease8[10],disease9[10],disease0[10];$/;"	v
+disease8	main.c	/^char disease1[10],disease2[10],disease3[10],disease4[10],disease5[10],disease6[10],disease7[10],disease8[10],disease9[10],disease0[10];$/;"	v
+disease9	main.c	/^char disease1[10],disease2[10],disease3[10],disease4[10],disease5[10],disease6[10],disease7[10],disease8[10],disease9[10],disease0[10];$/;"	v
+gen1	main.c	/^int gen1 = 0, gen2 = 0, gen3 = 0, gen4 = 0, gen5 = 0;$/;"	v
+gen2	main.c	/^int gen1 = 0, gen2 = 0, gen3 = 0, gen4 = 0, gen5 = 0;$/;"	v
+gen3	main.c	/^int gen1 = 0, gen2 = 0, gen3 = 0, gen4 = 0, gen5 = 0;$/;"	v
+gen4	main.c	/^int gen1 = 0, gen2 = 0, gen3 = 0, gen4 = 0, gen5 = 0;$/;"	v
+gen5	main.c	/^int gen1 = 0, gen2 = 0, gen3 = 0, gen4 = 0, gen5 = 0;$/;"	v
+icu1	main.c	/^int icu1 = 0, icu2 = 0, icu3 = 0, icu4 = 0, icu5 = 0;$/;"	v
+icu2	main.c	/^int icu1 = 0, icu2 = 0, icu3 = 0, icu4 = 0, icu5 = 0;$/;"	v
+icu3	main.c	/^int icu1 = 0, icu2 = 0, icu3 = 0, icu4 = 0, icu5 = 0;$/;"	v
+icu4	main.c	/^int icu1 = 0, icu2 = 0, icu3 = 0, icu4 = 0, icu5 = 0;$/;"	v
+icu5	main.c	/^int icu1 = 0, icu2 = 0, icu3 = 0, icu4 = 0, icu5 = 0;$/;"	v
+main	main.c	/^void main(void)$/;"	f
+menu	menu.c	/^int menu(void)$/;"	f
+name0	main.c	/^char name1[10],name2[10],name3[10],name4[10],name5[10],name6[10],name7[10],name8[10],name9[10],name0[10];$/;"	v
+name1	main.c	/^char name1[10],name2[10],name3[10],name4[10],name5[10],name6[10],name7[10],name8[10],name9[10],name0[10];$/;"	v
+name2	main.c	/^char name1[10],name2[10],name3[10],name4[10],name5[10],name6[10],name7[10],name8[10],name9[10],name0[10];$/;"	v
+name3	main.c	/^char name1[10],name2[10],name3[10],name4[10],name5[10],name6[10],name7[10],name8[10],name9[10],name0[10];$/;"	v
+name4	main.c	/^char name1[10],name2[10],name3[10],name4[10],name5[10],name6[10],name7[10],name8[10],name9[10],name0[10];$/;"	v
+name5	main.c	/^char name1[10],name2[10],name3[10],name4[10],name5[10],name6[10],name7[10],name8[10],name9[10],name0[10];$/;"	v
+name6	main.c	/^char name1[10],name2[10],name3[10],name4[10],name5[10],name6[10],name7[10],name8[10],name9[10],name0[10];$/;"	v
+name7	main.c	/^char name1[10],name2[10],name3[10],name4[10],name5[10],name6[10],name7[10],name8[10],name9[10],name0[10];$/;"	v
+name8	main.c	/^char name1[10],name2[10],name3[10],name4[10],name5[10],name6[10],name7[10],name8[10],name9[10],name0[10];$/;"	v
+name9	main.c	/^char name1[10],name2[10],name3[10],name4[10],name5[10],name6[10],name7[10],name8[10],name9[10],name0[10];$/;"	v
+viewPatients	view_patients.c	/^void viewPatients() $/;"	f

@@ -1,0 +1,2 @@
+c is programming language.
+c is a general-purpose.procedural programming language developed by dennis ritche at bell labs in 1972

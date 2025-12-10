@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+billing	billing.c	/^void billing(int product_id, int quantity, float price)$/;"	f
+browse_products	browse_products.c	/^int browse_products(void)$/;"	f
+calculateDiscount	calculateDiscount.c	/^float calculateDiscount(float subtotal)$/;"	f
+electronics	electronics.c	/^void electronics(void)$/;"	f
+fashion	fashion.c	/^void fashion(void)$/;"	f
+home_applinces	home_applinces.c	/^void home_applinces(void)$/;"	f
+last_final_amount	main.c	/^float last_final_amount = 0.0;$/;"	v
+last_product_id	main.c	/^int last_product_id = 0;$/;"	v
+last_quantity	main.c	/^int last_quantity = 0;$/;"	v
+main	main.c	/^void main(void)$/;"	f
+menu	menu.c	/^int menu(void)$/;"	f
+place_order	place_order.c	/^int place_order(int choice)$/;"	f
+product_name	product_name.c	/^void product_name(int product_id) $/;"	f
+subtotal	subtotal.c	/^void subtotal(int product,int quantity,int choice)$/;"	f
+view_order_status	view_order_status.c	/^void view_order_status(int last_product_id,int last_quantity,float last_final_amount)$/;"	f

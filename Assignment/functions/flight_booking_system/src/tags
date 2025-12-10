@@ -1,0 +1,29 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Book_Ticket	Book_Ticket.c	/^void Book_Ticket()$/;"	f
+Cancel_Booking	Cancel_Booking.c	/^void Cancel_Booking()$/;"	f
+Search_Flights	Search_Flights.c	/^void Search_Flights()$/;"	f
+age	main.c	/^int age,classType;$/;"	v
+calculate_base_fare	calculate_bill.c	/^int calculate_base_fare(int distance)$/;"	f
+calculate_final_fare	calculate_bill.c	/^int calculate_final_fare(int distance, int age, int classType) $/;"	f
+classType	main.c	/^int age,classType;$/;"	v
+clearInputBuffer	cleaninputbuffer.c	/^void clearInputBuffer() $/;"	f
+destination	main.c	/^char destination,destination1[15];$/;"	v
+destination1	main.c	/^char destination,destination1[15];$/;"	v
+destination_station	destination_station.c	/^void destination_station()$/;"	f
+distance	main.c	/^int distance;$/;"	v
+finalFare	main.c	/^int finalFare,price;$/;"	v
+flightid	main.c	/^char flightid[5],flightid1[5],name[15];$/;"	v
+flightid1	main.c	/^char flightid[5],flightid1[5],name[15];$/;"	v
+main	main.c	/^void main(void)$/;"	f
+menu	menu.c	/^int menu(void)$/;"	f
+name	main.c	/^char flightid[5],flightid1[5],name[15];$/;"	v
+price	main.c	/^int finalFare,price;$/;"	v
+printTicket	print_ticket.c	/^void printTicket(char name[], char flightid[], char source1[], char destination1[], int age, int classType, int price)$/;"	f
+source	main.c	/^char source,source1[15];$/;"	v
+source1	main.c	/^char source,source1[15];$/;"	v
+source_station	source_station.c	/^void source_station()$/;"	f

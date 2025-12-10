@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+void main()
+{
+	int arr[10] = {1,2,3,4,5,6,7,8,9,10};
+	func(arr+3);
+}
+
+func(int a[])
+{
+	int i;
+	for(i=0;a[i]!=8;i++)
+		printf("%d ",a[i]);
+}
