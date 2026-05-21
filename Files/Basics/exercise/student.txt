@@ -1,0 +1,18 @@
+Name : Ravi
+Roll : 100
+Marks: 89.5
+Name : Amruth
+Roll : 101
+Marks: 84.53
+ Name : Abhishek
+Roll : 102
+Marks: 74.51
+ Name : Amar
+Roll : 103
+Marks: 86.52
+ Name : shambhavi
+Roll : 104
+Marks: 76.54
+ Name : sannidhi
+Roll : 105
+Marks: 73.55

@@ -1,0 +1,4 @@
+Always check if fopen() returned NULL
+Always close files using fclose()
+Use perror() when file operations fail
+Use Binary mode for structures and arrays
