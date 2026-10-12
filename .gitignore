@@ -1,0 +1,40 @@
+# Compiled Object files
+*.o
+*.obj
+*.slo
+*.lo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Libraries
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Executables & Output Binaries
+*.out
+*.exe
+*.bin
+*.app
+*.elf
+
+# Debug / symbols
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Editor & OS artifacts
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.DS_Store
+Thumbs.db
+*.swp
+*~
